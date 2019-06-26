@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace pref="63" max="32767" attributes="0"/>
+              <Component id="Title" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="9" pref="72" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+                              <Component id="jLabel1" min="-2" pref="97" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="settings" alignment="0" min="-2" pref="95" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="semGPA" max="32767" attributes="0"/>
+                          <Component id="done" alignment="1" max="32767" attributes="0"/>
+                          <Component id="semGPA1" alignment="1" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="Class" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Class2" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Class3" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Class4" alignment="0" max="32767" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="Class1" min="-2" pref="145" max="-2" attributes="0"/>
+                              <EmptySpace min="0" pref="11" max="32767" attributes="0"/>
+                          </Group>
+                          <Component id="Class5" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="Spinner4" min="-2" max="-2" attributes="0"/>
+                          <Component id="Spinner5" min="-2" max="-2" attributes="0"/>
+                          <Component id="Spinner3" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Spinner" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Spinner1" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Spinner2" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+              <Component id="Title" min="-2" pref="42" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+                      <Component id="Spinner" min="-2" pref="24" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="Class" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Class1" alignment="3" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="Spinner1" alignment="3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Class2" alignment="3" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="Spinner2" alignment="3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Class3" alignment="3" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="Spinner3" alignment="3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Class4" alignment="3" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="Spinner4" alignment="3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Class5" alignment="3" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="Spinner5" alignment="3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="semGPA" alignment="3" min="-2" pref="31" max="-2" attributes="0"/>
+                  <Component id="jLabel1" alignment="3" min="-2" pref="29" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel2" alignment="3" min="-2" pref="29" max="-2" attributes="0"/>
+                  <Component id="semGPA1" alignment="3" min="-2" pref="31" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="settings" min="-2" pref="24" max="-2" attributes="0"/>
+                  <Component id="done" min="-2" pref="24" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="Class1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Class 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Class2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Class 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Class3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Class 4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Class">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Class 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Class4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Class 5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Class5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Class 6"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Spinner">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="11">
+            <StringItem index="0" value="Grade"/>
+            <StringItem index="1" value="A+"/>
+            <StringItem index="2" value="A"/>
+            <StringItem index="3" value="A-"/>
+            <StringItem index="4" value="B+"/>
+            <StringItem index="5" value="B"/>
+            <StringItem index="6" value="B-"/>
+            <StringItem index="7" value="C+"/>
+            <StringItem index="8" value="C"/>
+            <StringItem index="9" value="C-"/>
+            <StringItem index="10" value="L"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SpinnerActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Spinner1">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="11">
+            <StringItem index="0" value="Grade"/>
+            <StringItem index="1" value="A+"/>
+            <StringItem index="2" value="A"/>
+            <StringItem index="3" value="A-"/>
+            <StringItem index="4" value="B+"/>
+            <StringItem index="5" value="B"/>
+            <StringItem index="6" value="B-"/>
+            <StringItem index="7" value="C+"/>
+            <StringItem index="8" value="C"/>
+            <StringItem index="9" value="C-"/>
+            <StringItem index="10" value="L"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Spinner1ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Spinner2">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="11">
+            <StringItem index="0" value="Grade"/>
+            <StringItem index="1" value="A+"/>
+            <StringItem index="2" value="A"/>
+            <StringItem index="3" value="A-"/>
+            <StringItem index="4" value="B+"/>
+            <StringItem index="5" value="B"/>
+            <StringItem index="6" value="B-"/>
+            <StringItem index="7" value="C+"/>
+            <StringItem index="8" value="C"/>
+            <StringItem index="9" value="C-"/>
+            <StringItem index="10" value="L"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Spinner2ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Spinner3">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="11">
+            <StringItem index="0" value="Grade"/>
+            <StringItem index="1" value="A+"/>
+            <StringItem index="2" value="A"/>
+            <StringItem index="3" value="A-"/>
+            <StringItem index="4" value="B+"/>
+            <StringItem index="5" value="B"/>
+            <StringItem index="6" value="B-"/>
+            <StringItem index="7" value="C+"/>
+            <StringItem index="8" value="C"/>
+            <StringItem index="9" value="C-"/>
+            <StringItem index="10" value="L"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Spinner3ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Spinner4">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="11">
+            <StringItem index="0" value="Grade"/>
+            <StringItem index="1" value="A+"/>
+            <StringItem index="2" value="A"/>
+            <StringItem index="3" value="A-"/>
+            <StringItem index="4" value="B+"/>
+            <StringItem index="5" value="B"/>
+            <StringItem index="6" value="B-"/>
+            <StringItem index="7" value="C+"/>
+            <StringItem index="8" value="C"/>
+            <StringItem index="9" value="C-"/>
+            <StringItem index="10" value="L"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Spinner4ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Spinner5">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="11">
+            <StringItem index="0" value="Grade"/>
+            <StringItem index="1" value="A+"/>
+            <StringItem index="2" value="A"/>
+            <StringItem index="3" value="A-"/>
+            <StringItem index="4" value="B+"/>
+            <StringItem index="5" value="B"/>
+            <StringItem index="6" value="B-"/>
+            <StringItem index="7" value="C+"/>
+            <StringItem index="8" value="C"/>
+            <StringItem index="9" value="C-"/>
+            <StringItem index="10" value="L"/>
+          </StringArray>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Spinner5ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JButton" name="done">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Done"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="doneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="semGPA">
+      <Properties>
+        <Property name="editable" type="boolean" value="false" postCode="semGPA.setHorizontalAlignment(JTextField.CENTER);"/>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="semGPAActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="settings">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="ff" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Settings"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Default Cursor"/>
+        </Property>
+        <Property name="inheritsPopupMenu" type="boolean" value="true"/>
+        <Property name="name" type="java.lang.String" value="" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="settingsActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Title">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Silom" size="24" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="GPA Calculator 2.0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Semester GPA:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Grande" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Cumulative GPA:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="semGPA1">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Grande" size="13" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="semGPA1ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
